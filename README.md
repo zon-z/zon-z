@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @zon-z
-- 👀 I’m interested in tech
-- 🌱 I’m currently learning to build custom ROMs
 - 📫 How to reach me https://t.me/z_zon
 
 <!---
